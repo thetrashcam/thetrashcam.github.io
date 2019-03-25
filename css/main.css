@@ -1894,7 +1894,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   min-height: 800px;
   position: relative;
   padding: 10rem 0 15rem;
-  color: rgba(255, 255, 255, 0.3);
+  color: #FFFFFF;
 }
 #motivation .overlay {
   position: absolute;
@@ -1923,7 +1923,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   color: #FFFFFF;
 }
 #motivation .section-intro .lead {
-  color: rgba(242, 242, 242, 0.4);
+  color: rgba(242, 242, 242, 1);
 }
 #motivation .motivation-content {
   text-align: center;
@@ -1935,7 +1935,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 #motivation .motivation-list .service-item {
   margin-bottom: 3rem;
-  padding: 0 50px;
+  padding: 0 0;
 }
 #motivation .motivation-list .service-item p {
   color: rgba(242, 242, 242, 0.5);
